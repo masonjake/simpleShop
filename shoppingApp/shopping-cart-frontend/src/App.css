@@ -1,0 +1,20 @@
+.container{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cart, .products, .checkout{
+  border: 2px solid blue;
+  padding: 10px;
+  align-items:center ;
+}
+.product-table {
+  border: 1px solid black;
+  border-collapse:collapse
+  
+}
+td {
+  border: 1px solid black;
+
+
+}

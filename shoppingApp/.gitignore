@@ -1,0 +1,146 @@
+./shopping-cart-frontend/node_modules
+./cartDB/node_modules
+./cartDB/.env
+
+#####Strapi
+############################
+# OS X
+############################
+
+./cartDB/.DS_Store
+./cartDB/.AppleDouble
+./cartDB/.LSOverride
+./cartDB/Icon
+./cartDB/.Spotlight-V100
+./cartDB/.Trashes
+./cartDB/._*
+
+
+############################
+# Linux
+############################
+
+./cartDB/*~
+
+
+############################
+# Windows
+############################
+
+./cartDB/Thumbs.db
+./cartDB/ehthumbs.db
+./cartDB/Desktop.ini
+./cartDB/$RECYCLE.BIN/
+./cartDB/*.cab
+./cartDB/*.msi
+./cartDB/*.msm
+./cartDB/*.msp
+
+
+############################
+# Packages
+############################
+
+./cartDB/*.7z
+./cartDB/*.csv
+./cartDB/*.dat
+./cartDB/*.dmg
+./cartDB/*.gz
+./cartDB/*.iso
+./cartDB/*.jar
+./cartDB/*.rar
+./cartDB/*.tar
+./cartDB/*.zip
+./cartDB/*.com
+./cartDB/*.class
+./cartDB/*.dll
+./cartDB/*.exe
+./cartDB/*.o
+./cartDB/*.seed
+./cartDB/*.so
+./cartDB/*.swo
+./cartDB/*.swp
+./cartDB/*.swn
+./cartDB/*.swm
+./cartDB/*.out
+./cartDB/*.pid
+
+
+############################
+# Logs and databases
+############################
+
+./cartDB/.tmp
+./cartDB/*.log
+./cartDB/*.sql
+./cartDB/*.sqlite
+./cartDB/*.sqlite3
+
+
+############################
+# Misc.
+############################
+
+./cartDB/*#
+./cartDB/ssl
+./cartDB/.idea
+./cartDB/nbproject
+./cartDB/public/uploads/*
+./cartDB/!public/uploads/.gitkeep
+
+############################
+# Node.js
+############################
+
+./cartDB/lib-cov
+./cartDB/lcov.info
+./cartDB/pids
+./cartDB/logs
+./cartDB/results
+./cartDB/node_modules
+./cartDB/.node_history
+
+############################
+# Tests
+############################
+
+./cartDB/testApp
+./cartDB/coverage
+
+############################
+# Strapi
+############################
+
+./cartDB/.env
+./cartDB/license.txt
+./cartDB/exports
+./cartDB/*.cache
+./cartDB/dist
+./cartDB/build
+./cartDB/.strapi-updater.json
+
+####create-react-app
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+./shopping-cart-frontend/node_modules
+./shopping-cart-frontend/.pnp
+./shopping-cart-frontend/.pnp.js
+
+# testing
+./shopping-cart-frontend/coverage
+
+# production
+./shopping-cart-frontend/build
+
+# misc
+./shopping-cart-frontend/.DS_Store
+./shopping-cart-frontend/.env.local
+./shopping-cart-frontend/.env.development.local
+./shopping-cart-frontend/.env.test.local
+./shopping-cart-frontend/.env.production.local
+
+./shopping-cart-frontend/npm-debug.log*
+./shopping-cart-frontend/yarn-debug.log*
+./shopping-cart-frontend/yarn-error.log*
+
